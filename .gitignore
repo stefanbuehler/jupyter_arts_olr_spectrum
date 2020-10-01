@@ -1,0 +1,7 @@
+*.xml
+*.xml.bin
+*.pdf
+Hitran/
+svnlog
+tropical/
+.ipynb_checkpoints/
