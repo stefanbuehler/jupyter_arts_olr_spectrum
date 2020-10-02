@@ -9,13 +9,13 @@ If you do not want the sourcecode yourself, you can simply install them with
     pip install pyarts
     pip install typhon
 
-If you do want the sourcecode, you can get it for both packages from the [atmtools project on github](https://github.com/atmtools).
+If you do want the sourcecode, you can get it for both packages from the [atmtools project on github](https://github.com/atmtools). Github also has the [documentation for the pyarts API](https://atmtools.github.io/pyarts-docs-master/). 
     
 To check out the line catalog and atmosphere data, you will need subversion installed (which should anyway be available on most systems). Also, you should have around 4 GB of RAM, the main memory hog is that we read in a large part of the HITRAN catalog.
 
 The absorption lookup table format is described in [this paper](https://doi.org/10.1016/j.jqsrt.2011.03.008).
 
-You can see documentation for all ARTS variables and methods in the online browser for the [built-in documentation](https://www.radiativetransfer.org/docserver-trunk).
+You can see documentation for all ARTS variables and methods in the online browser for the [built-in documentation](https://www.radiativetransfer.org/docserver-trunk). 
 
 On the [ARTS webpage](https://www.radiativetransfer.org) there are also pointers to more traditional documentation (User guide, Theory guide, Developer guide). Not all of these are completely up to date, especially the python interface so far is poorly documented.
 
